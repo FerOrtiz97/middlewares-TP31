@@ -7,12 +7,10 @@
 	<link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
-	<h1>Home Page</h1>
-	<ul>
-		<li><a href="/users/login">Login</a></li>
-		<li><a href="/services">Servicios</a></li>
-		<li><a href="/services/design">Diseños</a></li>
-	</ul>
-	<img src="/images/node.jpg" width="60%">
+<form action="/users/login" method="post">
+	<label for="usuario">Escribi tu usuario</label>
+	<input type="text" name="usuario" id="usuario">
+	<button type="submit">Enviar</button>
+</form>
 </body>
 </html>

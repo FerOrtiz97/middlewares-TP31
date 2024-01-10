@@ -1,1 +1,9 @@
 
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /services/design
+El usuario ingresó a la ruta: /users/login
+El usuario ingresó a la ruta: /users/login
+El administrador Ada ha ingresado
+El usuario ingresó a la ruta: /users/login
+El usuario ingresó a la ruta: /users/login
+El usuario Adda no es adminstrador
